@@ -47,7 +47,7 @@
     background-color: aqua;
     margin: 20px;
     float: left;
-    margin-left: calc(50% - 240px);
+    margin-left: calc(50% - 220px);
 }
 
 .right3 {
@@ -57,7 +57,7 @@
     background-color: blue;
     margin: 20px;
     float: right;
-    margin-right: calc(50% - 240px);
+    margin-right: calc(50% - 220px);
 }
 
 .left4 {
